@@ -1,0 +1,13 @@
+{
+  "name": "vertexsol-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "crypto-js": "^4.0.0"
+  }
+}
